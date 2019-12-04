@@ -1,5 +1,4 @@
-from paramspool.handle_param import ParamPool
-import allure
+from utils.handle_param import ParamPool
 import requests
 
 

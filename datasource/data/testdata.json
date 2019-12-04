@@ -1,0 +1,9 @@
+{
+  "login": {
+    "username": "admin",
+    "password": "123456"
+  },
+  "submitOrder": {
+    "orderId": "111111"
+  }
+}
